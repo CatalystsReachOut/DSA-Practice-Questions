@@ -1,12 +1,13 @@
-## SCHOOL LEVEL QUESTIONS & BASIC LOGIC.
-## topics covered: INPUT/OUTPUT, IF-ELSE STATEMENTS, LOOPS
-#### Level: EASY 
-### IF-ELSE STATEMENTS
+# Conditional Statements And Loops
+### Level: EASY 
+
+### Conditional Statements
 [Ticket Fine](https://www.codechef.com/submit/TCKTFINE) </br>
 [Volume Control](https://www.codechef.com/submit/VOLCONTROL)</br>
 [Chef and Brain Speed](https://www.codechef.com/submit/CBSPEED)</br>
 [Fill The Grid](https://www.codechef.com/problems/GRIDBL)</br>
-### LOOPS
+
+### Loops
 [Print alternate elements of an array](https://practice.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1?page=1&difficulty[]=-2&sortBy=submissions)</br>
 [Second largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1?page=1&difficulty[]=-2&sortBy=submissions)</br>
 [Find minimum and maximum element in an array](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1?page=1&difficulty[]=-2&difficulty[]=-1&category[]=Arrays&curated[]=8&sortBy=submissions)</br>

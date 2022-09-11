@@ -1,5 +1,4 @@
 # Conditional Statements And Loops
-### Level: EASY 
 
 ### Conditional Statements
 [Ticket Fine](https://www.codechef.com/submit/TCKTFINE) </br>

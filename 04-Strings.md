@@ -6,9 +6,9 @@ Question 3. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)<
 Question 4. [Anagram](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1?page=1&difficulty[]=-1&difficulty[]=0&status[]=solved&category[]=Strings&sortBy=submissions)</br>
 Question 5. [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1?page=1&status[]=unsolved&category[]=Strings&sortBy=submissions)</br>
 Question 6. [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/)</br>
-<!-- Question 7. []()</br>
-Question 8. []()</br>
-Question 9. []()</br>
+Question 7. [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)</br>
+Question 8. [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)</br>
+<!--Question 9. []()</br>
 Question 10. []()</br> -->
 
 #### LEVEL: MEDIUM</br>

@@ -6,8 +6,8 @@ Question 3. [Remove Duplicates from Sorted List](https://leetcode.com/problems/r
 Question 4. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)</br>
 Question 5. [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)</br>
 Question 6. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)</br>
-<!--Question 7. [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)</br>
-Question 8. [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)</br>
+Question 7. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)</br>
+<!--Question 8. [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)</br>
 Question 9. []()</br>
 Question 10. []()</br> -->
 

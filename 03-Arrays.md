@@ -10,6 +10,7 @@ Question 7. [Search in Rotated Sorted Array](https://leetcode.com/problems/searc
 Question 8. [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/)</br>
 Question 9. [Alternate positive and negative numbers](https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1?page=1&difficulty[]=0&difficulty[]=2&status[]=unsolved&category[]=Arrays&curated[]=2&sortBy=submissions)</br>
 Question 10. [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?page=1&difficulty[]=0&difficulty[]=1&status[]=unsolved&category[]=Arrays&curated[]=1&curated[]=7&curated[]=8&curated[]=2&sortBy=submissions)</br>
+Question 11. [Remove Prefix](https://codeforces.com/problemset/problem/1714/B)</br>
 
 #### LEVEL: MEDIUM</br>
 Question 1. [Kth smallest element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1?page=1&difficulty[]=1&category[]=Arrays&sortBy=submissions)</br>

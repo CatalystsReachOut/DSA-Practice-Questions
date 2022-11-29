@@ -13,9 +13,9 @@ Question 10. []()</br> -->
 
 #### LEVEL: MEDIUM</br>
 Question 1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)</br>
-<!-- Question 2. [Validate an IP Address](https://practice.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/1?page=1&difficulty[]=1&status[]=solved&category[]=Strings&sortBy=submissions)</br>
-Question 3. [Implement Atoi](https://practice.geeksforgeeks.org/problems/implement-atoi/1?page=1&difficulty[]=1&status[]=solved&category[]=Strings&sortBy=submissions)</br>
-Question 4. [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1?page=1&difficulty[]=1&difficulty[]=2&status[]=solved&category[]=Strings&sortBy=submissions)</br>
+Question 2. [Reverse a Stack](https://practice.geeksforgeeks.org/problems/reverse-a-stack/1?utm_source=gfg&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)</br>
+<!-- Question 3. [Implement Atoi](https://practice.geeksforgeeks.org/problems/implement-atoi/1?page=1&difficulty[]=1&status[]=solved&category[]=Strings&sortBy=submissions)</br> -->
+<!-- Question 4. [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1?page=1&difficulty[]=1&difficulty[]=2&status[]=solved&category[]=Strings&sortBy=submissions)</br>
 Question 5. [Non Repeating Character](https://practice.geeksforgeeks.org/problems/non-repeating-character-1587115620/1?page=1&difficulty[]=0&status[]=unsolved&category[]=Strings&sortBy=submissions)</br> -->
 <!--Question 6. []()</br>
 Question 7. []()</br>

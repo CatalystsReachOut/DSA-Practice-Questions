@@ -1,4 +1,4 @@
-### STRINGS
+### STACK
 #### LEVEL: EASY</br>
 Question 1. [Reverse a String Using Stack](https://practice.geeksforgeeks.org/problems/reverse-a-string/1?page=1&difficulty[]=-1&status[]=solved&category[]=Strings&sortBy=submissions)</br>
 Question 2. [Delete middle element of a stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1)</br>
